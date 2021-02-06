@@ -14,10 +14,10 @@ Cancer is the second leading cause of deaths globally and accounts for 10 millio
 <p align="justify">
 Most CUP patients have a dismal prognosis with a median overall survival of 8-11 months and one-year survival of only 25% ("Carcinoma of Unknown Primary Treatment", 2018). Therefore, novel diagnostic methods are required to improve both speed and accuracy of cancer tissue of origin identification.
 
-<img src="images/heatmap_by_type.svg" align="right" width="500">
-
 <p align="justify">
 It is known that most metastatic samples retain the gene expression profile of the primary tumour and can be used to predict its primary site (note the clustering of gene expression in primary and metastatic tumor samples in the image on the right).
+
+<img src="images/heatmap_by_type.svg" align="right" width="500">
 
 <p align="justify">
 There exist a number of techniques that can be used to determine the transcriptomic profile of a cell. The most widely used are microarray platforms and newer RNA sequencing technologies which serve to measure the activity of thousands genes at a time, creating a picture of cell fate and pathology. Since metastatic cancers are believed to retain the gene expression profile of their primary site, machine learning methods can be used to predict the primary site of a cancer.
