@@ -28,7 +28,7 @@ The aim of our project Cancifier (Cancer classifier) was to develop a bioinforma
   ## Methods and results
 
 <p align="justify">
-Twenty three RNA microarray datasets were obtained programmatically from the Gene Expression Omnibus (GEO) database, and fifteen RNA-Seq datasets were downloaded from the The Cancer Genome Atlas database (TCGA). All dataset IDs were found using the Human Cancer Metastasis Database [HCMDB] (https://hcmdb.i-sanger.com) which is an integrated database designed to store and analyze large scale expression data of cancer metastasis.
+Twenty three RNA microarray datasets were obtained programmatically from the Gene Expression Omnibus (GEO) database, and fifteen RNA-Seq datasets were downloaded from the The Cancer Genome Atlas database (TCGA). All dataset IDs were found using the Human Cancer Metastasis Database (HCMDB) which is an integrated database designed to store and analyze large scale expression data of cancer metastasis.
 
 The notebook preprocess.ipynb contains the code that was used to preprocess and normalize the data. The following steps were taken to preprocess the data:
 
