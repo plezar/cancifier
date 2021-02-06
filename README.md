@@ -48,31 +48,28 @@ The notebook preprocess.ipynb contains the code that was used to preprocess and 
 
 ## Conclusion
 
-<img src="images/eval.png" align="right" width="300">&nbsp;
+<img src="images/eval.png" align="right" width="300">
 
 <p align="justify">
-In summary, we have demonstrated the utility of our machine learning algorithms to decode gene expression profiles and better meet the clinical challenge of identifying the primary site of multiple cancers.
+Our team developed a bioinformatic pipeline that can accurately identify the site of origin of a metastatic cancer based on its transcriptomic profile obtained via either RNA-seq or microarray technologies. According to our results, we made a predictive improvement to an existing method which had an average accuracy of 86.7% (Liu et al., 2020). In summary, our project demonstrates the utility of machine learning algorithms to decode gene expression profiles and better meet the clinical challenge of identifying the primary site of multiple cancers.
 
-&nbsp;&nbsp;&nbsp;
-
-
-
+&nbsp;
 
 ## References
 
-Cancer. (2018). Retrieved 6 February 2021, from https://www.who.int/news-room/fact-sheets/detail/cancer
+- <p align="justify">Cancer. (2018). Retrieved 6 February 2021, from https://www.who.int/news-room/fact-sheets/detail/cancer
 
-Carcinoma of Unknown Primary Treatment. (2018). Retrieved 6 February 2021, from https://www.cancer.gov/types/unknown-primary/patient/unknown-primary-treatment-pdq
+- <p align="justify">Carcinoma of Unknown Primary Treatment. (2018). Retrieved 6 February 2021, from https://www.cancer.gov/types/unknown-primary/patient/unknown-primary-treatment-pdq
 
-Huang, d., Sherman, B. T., & Lempicki, R. A. (2009). Systematic and integrative analysis of large gene lists using DAVID bioinformatics resources. Nature protocols, 4(1), 44–57. https://doi.org/10.1038/nprot.2008.211
+- <p align="justify">Huang, d., Sherman, B. T., & Lempicki, R. A. (2009). Systematic and integrative analysis of large gene lists using DAVID bioinformatics resources. Nature protocols, 4(1), 44–57. https://doi.org/10.1038/nprot.2008.211
 
-Huang, d., Sherman, B. T., & Lempicki, R. A. (2009). Bioinformatics enrichment tools: paths toward the comprehensive functional analysis of large gene lists. Nucleic acids research, 37(1), 1–13. https://doi.org/10.1093/nar/gkn923
+- <p align="justify">Huang, d., Sherman, B. T., & Lempicki, R. A. (2009). Bioinformatics enrichment tools: paths toward the comprehensive functional analysis of large gene lists. Nucleic acids research, 37(1), 1–13. https://doi.org/10.1093/nar/gkn923
 
-Liu, X., Li, L., Peng, L., Wang, B., Lang, J., & Lu, Q. et al. (2020). Predicting Cancer Tissue-of-Origin by a Machine Learning Method Using DNA Somatic Mutation Data. Frontiers In Genetics, 11. doi: 10.3389/fgene.2020.00674
+- <p align="justify">Liu, X., Li, L., Peng, L., Wang, B., Lang, J., & Lu, Q. et al. (2020). Predicting Cancer Tissue-of-Origin by a Machine Learning Method Using DNA Somatic Mutation Data. Frontiers In Genetics, 11. doi: 10.3389/fgene.2020.00674
 
-scikit-learn 0.24.1 documentation. Retrieved 6 February 2021, from https://scikit-learn.org/stable/modules/generated/sklearn.manifold.TSNE.html
+- <p align="justify">scikit-learn 0.24.1 documentation. Retrieved 6 February 2021, from https://scikit-learn.org/stable/modules/generated/sklearn.manifold.TSNE.html
 
-Wei I H, Shi Y, Jiang H, Kumar-Sinha C, and Chinnaiyan A M (2014). RNA-Seq Accurately Identifies Cancer Biomarker Signatures to Distinguish Tissue of Origin. Neoplasia 16, 918–927
+- <p align="justify">Wei I H, Shi Y, Jiang H, Kumar-Sinha C, and Chinnaiyan A M (2014). RNA-Seq Accurately Identifies Cancer Biomarker Signatures to Distinguish Tissue of Origin. Neoplasia 16, 918–927
 
-Zhao Y, Pan Z, Namburi S, Pattison A, Posner A, Balachander S, Paisie C A , Reddi H V, Rueter J, Gill A J, Fox S, Raghav K P S, Flynn W F, Tothill R W, Li S, Karuturi R K M, George J (2020). CUP-AI-Dx: A tool for inferring cancer tissue of origin and molecular subtype using RNA gene-expression data and artificial intelligence. EBioMedicine 61, 103030
+- <p align="justify">Zhao Y, Pan Z, Namburi S, Pattison A, Posner A, Balachander S, Paisie C A , Reddi H V, Rueter J, Gill A J, Fox S, Raghav K P S, Flynn W F, Tothill R W, Li S, Karuturi R K M, George J (2020). CUP-AI-Dx: A tool for inferring cancer tissue of origin and molecular subtype using RNA gene-expression data and artificial intelligence. EBioMedicine 61, 103030
  
